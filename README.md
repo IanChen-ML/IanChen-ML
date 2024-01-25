@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IanChen-ML
+- 👋 Hi, I’m Ian
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning statistical learning and deep learning
 - 📫 How to reach me ... Email: ianchen00106@gmail.com
